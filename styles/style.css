@@ -285,20 +285,20 @@ nav ul li a {
   transition: 0.2s ease-in-out;
 }
 
-.portfolio-tags {
+.portofolio-tags {
   display: flex;
   gap: 1rem;
   margin: 1rem 0;
 }
 
-.portfolio-tags div {
+.portofolio-tags div {
   font-size: 0.9rem;
   border: 1px solid var(--borderColor);
   padding: 0.4rem 1rem;
   color: var(--secondaryTextColor);
 }
 
-.portfolio-tags div {
+.portofolio-tags div {
   font-size: 0.9rem;
   border: 1px solid var(--borderColor);
   padding: 0.4rem 1rem;
